@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Leios76]]></title><description><![CDATA[Leios76]]></description><link>http://leios76.github.com</link><image><url>http://leios76.github.com/public/img/favorite.png</url><title>Leios76</title><link>http://leios76.github.com</link></image><generator>NodeJS RSS Module</generator><lastBuildDate>Sun, 28 Jul 2013 15:24:25 GMT</lastBuildDate><atom:link href="http://leios76.github.com/rss.xml" rel="self" type="application/rss+xml"/><item><title><![CDATA[마크다운 테스트]]></title><description><![CDATA[<img src="http://www.gravatar.com/avatar/f6b70a194920f9eeeccf709b3ba246c6?r=pg&s=48.jpg&d=identicon"><br/><h1 id="toc_9">H1</h1>
+
+<h2 id="toc_10">H2</h2>
+
+<h3 id="toc_11">H3</h3>
+
+<h2 id="toc_12">테이블 기능</h2>
+
+<table><thead>
+<tr>
+<th>column1</th>
+<th>column2</th>
+</tr>
+</thead><tbody>
+<tr>
+<td>row1</td>
+<td>row1</td>
+</tr>
+<tr>
+<td>row2</td>
+<td>row2</td>
+</tr>
+</tbody></table>
+
+<h2 id="toc_13">URL 자동 링크</h2>
+<p><a href="http://leios76.github.com">link</a></p>]]></description><link>http://leios76.github.com/post/마크다운-테스트</link><guid isPermaLink="false">마크다운-테스트</guid><dc:creator><![CDATA[<a href="" target="_blank">Minsoo Kim</a>]]></dc:creator><pubDate>Sun, 28 Jul 2013 14:40:00 GMT</pubDate></item></channel></rss>
